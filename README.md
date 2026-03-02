@@ -21,6 +21,10 @@ Computer Vision: OpenCV
 
 Data Science: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
+📂 Dataset
+
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+
 ### 📂 Dataset Pipeline
 
 The project utilizes the LeapGestRecog dataset. The pipeline includes:
